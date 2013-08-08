@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MonoDevelop.Components.Commands;
 
-namespace TestAddin
+namespace MonoDevelop.TestAddin
 {
 	public class TestHandler : CommandHandler
 	{

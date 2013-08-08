@@ -7,8 +7,8 @@
     <ProjectGuid>{5EB45CE2-D055-43A9-A350-B7959824C15B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TestAddin</RootNamespace>
-    <AssemblyName>TestAddin</AssemblyName>
+    <RootNamespace>MonoDevelop.TestAddin</RootNamespace>
+    <AssemblyName>MonoDevelop.TestAddin</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

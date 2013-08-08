@@ -10,7 +10,7 @@
 	version="1.0">
 
 	<Runtime>
-		<Import assembly="TestAddin.dll"/>
+		<Import assembly="MonoDevelop.TestAddin.dll"/>
 	</Runtime>
 
 	<Dependencies>
