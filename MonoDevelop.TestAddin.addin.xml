@@ -6,7 +6,7 @@
 	copyright="LGPL"
 	url="http://google.com"
 	description="A test addin to try the build system"
-	category="Project Extensions"
+	category="IDE Extensions"
 	version="1.0">
 
 	<Runtime>
