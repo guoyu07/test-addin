@@ -3,6 +3,6 @@
 	<Project platforms="Win32 Mac">
 		<AddinFile>bin/Debug/MonoDevelop.TestAddin.dll</AddinFile>
 		<BuildFile>TestAddin.sln</BuildFile>
-		<BuildConfiguration>Debug</BuildConfiguration>
+		<BuildConfiguration>Release</BuildConfiguration>
 	</Project>
 </AddinProject>

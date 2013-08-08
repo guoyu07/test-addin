@@ -54,10 +54,10 @@
   <ItemGroup>
     <Compile Include="TestHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
+  </ItemGroup> 
   <ItemGroup>
-    <EmbeddedResource Include="TestAddin.addin.xml">
-      <LogicalName>TestAddin.addin.xml</LogicalName>
+    <EmbeddedResource Include="MonoDevelop.TestAddin.addin.xml">
+      <LogicalName>MonoDevelop.TestAddin.addin.xml</LogicalName>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
