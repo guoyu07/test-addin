@@ -58,6 +58,7 @@
   <ItemGroup>
     <EmbeddedResource Include="TestAddin.addin.xml">
       <LogicalName>TestAddin.addin.xml</LogicalName>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
