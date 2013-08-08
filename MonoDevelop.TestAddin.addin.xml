@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Addin namespace="TestAddin"
-	id="TestAddin"
+<Addin namespace="MonoDevelop.TestAddin"
+	id="MonoDevelop.TestAddin"
 	name="Test addin"
 	author="Rafael Steil"
 	copyright="LGPL"
