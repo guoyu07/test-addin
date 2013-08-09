@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <AddinProject appVersion="4.0">
 	<Project platforms="Win32 Mac">
-		<AddinFile>bin/Debug/MonoDevelop.TestAddin.dll</AddinFile>
+		<AddinFile>bin/Release/MonoDevelop.TestAddin.dll</AddinFile>
 		<BuildFile>MonoDevelop.TestAddin.sln</BuildFile>
 		<BuildConfiguration>Release</BuildConfiguration>
 	</Project>
